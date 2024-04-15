@@ -29,7 +29,19 @@ Here are some of the technologies I work with:
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3CA72D?style=for-the-badge&logo=nosql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-## Let's Connect!
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git)
+![WEB API](https://img.shields.io/badge/-WEB%20API-5A9BD4?style=for-the-badge)  <!-- Brak specyficznego logo dla Web API -->
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge)  
+
+
+## Let's Connect!      
 
 Feel free to reach out to me here on GitHub or through any of the platforms below. Let's talk tech, fitness, or books!
 
