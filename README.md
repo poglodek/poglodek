@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Paweł, a Computer Science student specializing in Cloud Development at WSB Merito University. 
+I'm Paweł, a Computer Science student specializing in AI/ML at AWSB University. 
 I work as a .NET developer in a microservices architecture 🐳. My interests lie in Domain-Driven Design (DDD), cloud technologies ☁️, and cybersecurity, mainly focusing on technology.
 
 In my free time, I love traveling, running, hitting the gym, and reading books. 🏃‍♂️📚🌍
